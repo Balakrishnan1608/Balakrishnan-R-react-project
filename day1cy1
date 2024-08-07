@@ -15,5 +15,5 @@ const bala=()=>{
      <button onClick={comp}>Click</button>
     </div>
   )
-}
+} 
 export default bala;
