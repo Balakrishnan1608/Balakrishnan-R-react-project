@@ -6,7 +6,7 @@ function alertMsg()
   console.log("Message to developer");
 }
 const rb=()=>{
-  return(
+  return( 
     <div>
     <button onClick={alertMsg}>Click</button>
     </div>
