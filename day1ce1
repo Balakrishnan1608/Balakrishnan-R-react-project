@@ -5,11 +5,11 @@ function alertMsg()
   alert("Message from javascript");
   console.log("Message to developer");
 }
-const Ajay=()=>{
+const rb=()=>{
   return(
     <div>
     <button onClick={alertMsg}>Click</button>
     </div>
   )
 }
-export default Ajay;
+export default rb;
