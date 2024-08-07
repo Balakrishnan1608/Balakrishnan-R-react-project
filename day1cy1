@@ -10,7 +10,7 @@ function comp()
 }
 const bala=()=>{
   return(
-    <div>
+    <div> 
 
      <button onClick={comp}>Click</button>
     </div>
